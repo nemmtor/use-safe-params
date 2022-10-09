@@ -1,0 +1,38 @@
+{
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "plugin:react-hooks/recommended",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "plugins": ["prettier", "import"],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": "error",
+
+    "import/no-unresolved": "off",
+    "import/extensions": "off",
+    "import/prefer-default-export": "off",
+    "import/order": [
+      "error",
+      {
+        "groups": [
+          ["external", "builtin"],
+          ["parent", "internal"],
+          ["index", "sibling"]
+        ],
+        "newlines-between": "always"
+      }
+    ],
+    "@typescript-eslint/no-explicit-any": "error",
+    "react/react-in-jsx-scope": "off",
+    "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }]
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}

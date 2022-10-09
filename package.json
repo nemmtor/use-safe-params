@@ -1,19 +1,17 @@
 {
-  "name": "use-safe-params",
+  "name": "use-safe-params-test-2",
   "version": "0.0.0",
-  "private": true,
   "workspaces": [
-    "apps/*",
+    "examples/*",
     "packages/*"
   ],
   "scripts": {
     "build": "turbo run build",
-    "dev": "turbo run dev --parallel",
+    "start": "turbo run start --parallel",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
-    "eslint-config-custom": "workspace:*",
     "prettier": "latest",
     "turbo": "latest"
   },
