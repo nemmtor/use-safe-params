@@ -1,6 +1,6 @@
 {
   "name": "use-safe-params-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "files": [
     "packages/use-safe-params/dist/",

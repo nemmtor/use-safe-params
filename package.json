@@ -1,6 +1,6 @@
 {
   "name": "use-safe-params-test-2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "workspaces": [
     "examples/*",
     "packages/*"
@@ -9,6 +9,7 @@
     "build": "turbo run build",
     "start": "turbo run start --parallel",
     "lint": "turbo run lint",
+    "changelog": "changeset",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
@@ -21,5 +22,5 @@
   "dependencies": {
     "@changesets/cli": "^2.25.0"
   },
-  "packageManager": "pnpm@6.32.3"
+  "packageManager": "pnpm@7.13.4"
 }
