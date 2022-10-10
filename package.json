@@ -9,8 +9,10 @@
     "build": "turbo run build",
     "start": "turbo run start --parallel",
     "lint": "turbo run lint",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changelog": "changeset",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "release": "turbo run build --filter=use-safe-params && changeset publish",
+    "version": "changeset version"
   },
   "devDependencies": {
     "prettier": "latest",
