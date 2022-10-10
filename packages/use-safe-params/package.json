@@ -5,7 +5,7 @@
   "files": [
     "dist",
     "CHANGELOG.md",
-    "../../LICENSE.txt",
+    "LICENSE.txt",
     "README.md"
   ],
   "exports": {
@@ -25,7 +25,6 @@
   },
   "dependencies": {
     "@changesets/cli": "^2.25.0",
-    "np": "^7.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.2"
