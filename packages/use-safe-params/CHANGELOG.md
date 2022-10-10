@@ -1,5 +1,11 @@
 # use-safe-params-test
 
+## 0.0.5
+
+### Patch Changes
+
+- 842fcdc: fix files in package json
+
 ## 0.0.4
 
 ### Patch Changes
