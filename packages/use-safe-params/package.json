@@ -5,7 +5,7 @@
   "files": [
     "dist",
     "CHANGELOG.md",
-    "LICENSE.md",
+    "../../LICENSE.txt",
     "README.md"
   ],
   "exports": {
