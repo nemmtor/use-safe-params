@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "type": "module",
   "files": [
-    "packages/use-safe-params/dist/",
+    "dist",
     "CHANGELOG.md",
     "LICENSE.md",
     "README.md"
