@@ -1,5 +1,11 @@
 # use-safe-params-test
 
+## 0.0.6
+
+### Patch Changes
+
+- 77fa72a: add license to files
+
 ## 0.0.5
 
 ### Patch Changes
