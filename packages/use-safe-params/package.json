@@ -1,6 +1,6 @@
 {
-  "name": "use-safe-params-test-2-internal",
-  "version": "0.0.5",
+  "name": "use-safe-params-test",
+  "version": "0.0.0",
   "type": "module",
   "files": [
     "packages/use-safe-params/dist/",
@@ -24,6 +24,7 @@
     "publish": "np"
   },
   "dependencies": {
+    "@changesets/cli": "^2.25.0",
     "np": "^7.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
