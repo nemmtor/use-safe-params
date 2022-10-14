@@ -1,4 +1,4 @@
-import { useSafeParams } from 'use-safe-params-test-2';
+import { useSafeParams } from 'use-safe-params-test-123';
 
 function AppWithParams() {
   const params = useSafeParams<'/:id'>();

@@ -1,5 +1,17 @@
 # use-safe-params-test
 
+## 1.1.0
+
+### Minor Changes
+
+- xdd
+
+## 1.0.0
+
+### Major Changes
+
+- xd
+
 ## 0.0.6
 
 ### Patch Changes
