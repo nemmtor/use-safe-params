@@ -1,5 +1,12 @@
 # cra
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated dependencies
+  - use-safe-params-test-123@1.1.3
+
 ## 0.0.2
 
 ### Patch Changes
