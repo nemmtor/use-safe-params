@@ -1,5 +1,11 @@
 # use-safe-params-test
 
+## 2.0.0
+
+### Major Changes
+
+- 20371d1: sd
+
 ## 1.1.3
 
 ### Patch Changes
