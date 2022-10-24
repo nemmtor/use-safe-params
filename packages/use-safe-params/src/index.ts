@@ -11,4 +11,4 @@ export const useSafeParams = <Path extends string>() => {
 };
 
 // eslint-disable-next-line no-console
-console.log('test!');
+console.log('test!1');
