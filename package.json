@@ -12,7 +12,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "changelog:changeset": "changeset",
     "changelog:version": "changeset version",
-    "changelog:release": "turbo run build --filter=use-safe-params-test-123 && changeset publish"
+    "release": "turbo run build --filter=use-safe-params-test-123 && changeset publish"
   },
   "devDependencies": {
     "prettier": "latest",
