@@ -1,5 +1,11 @@
 # use-safe-params-test
 
+## 1.1.1
+
+### Patch Changes
+
+- a62cc9b: yolo
+
 ## 1.1.0
 
 ### Minor Changes
