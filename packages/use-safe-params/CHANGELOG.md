@@ -1,5 +1,11 @@
 # use-safe-params-test
 
+## 1.1.2
+
+### Patch Changes
+
+- 09a6aba: xd
+
 ## 1.1.1
 
 ### Patch Changes
